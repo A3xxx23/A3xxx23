@@ -33,8 +33,8 @@
 
 [![Libreria](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Libreria&theme=react)](https://github.com/Jose-Familia/Libreria)
 [![Browsers-Search-automatizacion](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Browsers-Search-automatizacion&theme=react)](https://github.com/Jose-Familia/Browsers-Search-automatizacion)
-[![TI_Tickets-administration](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=TI_Tickets-administration&theme=react)](https://github.com/Jose-Familia/TI_Tickets-administration)
-[![AutoSeacrh-Script](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=AutoSeacrh-Script&theme=react)](https://github.com/Jose-Familia/AutoSeacrh-Script)
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TI_Ecommerce&theme=react)](https://github.com/A3xxx23/Ecommerce)
+[![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TaskList&theme=react)](https://github.com/A3xxx23/TaskList)
 [![Angel-Aquino-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Angel-Aquino-Portfolio&theme=react)](https://github.com/A3xxx23/Angel-Aquino-Portfolio)
 [![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=BookStore&theme=react)](https://github.com/A3xxx23/BookStore)
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jose-familia&theme=react&show_icons=true&hide_border=false&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=A3xxx23&theme=react&show_icons=true&hide_border=false&count_private=true"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-familia&theme=react&show_icons=true&hide_border=false&layout=compact"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3xxx23&theme=react&show_icons=true&hide_border=false&layout=compact"/>
 
 </div>
 
