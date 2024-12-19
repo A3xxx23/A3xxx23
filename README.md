@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,css,html,figma,mysql,jquery,php,bootstrap,java,django&perline=3" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,javascript,css,html,figma,mysql,jquery,php,bootstrap,java,django,adobe xd&perline=3" alt="My Skills">
   </a>
 </div>
 
