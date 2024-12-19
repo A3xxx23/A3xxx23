@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-¡Hola! Soy <strong><a href=["https://josefamilia.me"](https://a3xxx23.github.io/Angel-Aquino-Portfolio/) target="_blank" rel="noopener noreferrer">José Familia</a></strong>, un apasionado estudiante de Ingeniería en Sistemas Computacionales con un fuerte interés en el desarrollo de software y la tecnología. Mi objetivo es convertirme en un desarrollador versátil y altamente competente.
+¡Hola! Soy <strong><a href=["https://a3xxx23.github.io/Angel-Aquino-Portfolio/"] target="_blank" rel="noopener noreferrer">Angel E. Aquino</a></strong>, un apasionado estudiante de Ingeniería en Sistemas Computacionales con un fuerte interés en el desarrollo de software y la tecnología. Mi objetivo es convertirme en un desarrollador versátil y altamente competente.
 
 <details>
 <summary>🎯 Mis Objetivos Profesionales</summary>
