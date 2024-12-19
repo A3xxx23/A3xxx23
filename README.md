@@ -36,13 +36,14 @@
 [![TI_Tickets-administration](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=TI_Tickets-administration&theme=react)](https://github.com/Jose-Familia/TI_Tickets-administration)
 [![AutoSeacrh-Script](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=AutoSeacrh-Script&theme=react)](https://github.com/Jose-Familia/AutoSeacrh-Script)
 [![Prisma-Users-API](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API&theme=react)](https://github.com/Jose-Familia/Prisma-Users-API)
-[![MERM-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend&theme=react)](https://github.com/Jose-Familia/MERM-Frontend)
+[![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=BookStore&theme=react)](https://github.com/A3xxx23/BookStore)
+
 
 </details>
 
 ## 📚 Educación y Certificaciones
 
-- 🎓 **Ingeniería en Sistemas Computacionales** - [Universidad Nacional Pedro Henríquez Ureña](https://unphu.edu.do/)
+- 🎓 **Ingeniería en Sistemas Computacionales** - [Universidad Nacional Pedro Henríquez Ureña](https://unphu.edu.do/) 2023-2027
 - 📜 **Certificaciones**:
   - [Python Essential 1](https://www.credly.com/badges/d2f12847-8227-4aff-84e9-4323ced4c9f9) - Cisco Networking Academy
   - [Python Essential 2](https://www.credly.com/badges/855b6886-8647-49e4-8ca6-3c613240005a) - Cisco Networking Academy
