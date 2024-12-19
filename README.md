@@ -20,12 +20,8 @@
 ## 🛠 Habilidades Técnicas
 
 <div align="center">
-  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,css,html,figma,adobe xd,mysql,jquery,php,bootstrap,photoshop,java,django" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,css,html,figma,adobe xd,mysql,jquery,php,bootstrap,photoshop,java,django&perline=3)](https://skillicons.dev)
 
 </div>
 
