@@ -72,6 +72,13 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 ## 🌐 Conéctate Conmigo
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="picture">
+</p>
+
+## 🌐 Conéctate Conmigo
 
 <div align="center">
 
@@ -80,12 +87,6 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelemilioaquino6@gmail.com)
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="picture">
-</p>
 
 <div align="center">
   <i>Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍</i>
