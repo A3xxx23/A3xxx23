@@ -33,7 +33,7 @@
 
 [![Sistema de inventario](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Sistema-de-inventario&theme=react)](https://github.com/A3xxx23/Sistema-de-inventario)
 [![LifeTrack](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=LifeTrack&theme=react)](https://github.com/A3xxx23/LifeTrack)
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TI_Ecommerce&theme=react)](https://github.com/A3xxx23/Ecommerce)
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Ecommerce&theme=react)](https://github.com/A3xxx23/Ecommerce)
 [![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TaskList&theme=react)](https://github.com/A3xxx23/TaskList)
 [![Angel-Aquino-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Angel-Aquino-Portfolio&theme=react)](https://github.com/A3xxx23/Angel-Aquino-Portfolio)
 [![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=BookStore&theme=react)](https://github.com/A3xxx23/BookStore)
