@@ -71,7 +71,6 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-## 🌐 Conéctate Conmigo
 ---
 
 <p align="center">
