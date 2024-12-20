@@ -58,20 +58,14 @@
 
 </div>
 
-## ⏱ Actividad de Codificación Semanal
-<!--START_SECTION:waka-->
+### Spotify Playing 🎧
 
-```txt
-From: 11 December 2024 - To: 18 December 2024
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-Total Time: 1 hr 36 mins
-
-HTML   1 hr 36 mins    █████████████████████████   99.61 %
-CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-```
-
-<!--END_SECTION:waka-->
 ---
+
+<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="picture">
@@ -86,14 +80,6 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelemilioaquino6@gmail.com)
 
 </div>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <div align="center">
   <i>Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍</i>
