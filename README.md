@@ -64,9 +64,6 @@
 
 ---
 
-<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="picture">
 </p>
@@ -82,7 +79,7 @@
 </div>
 
 <div align="center">
-  <i>Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍</i>
+  <h2><i>Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍</i></h2>
 </div>
 
 
