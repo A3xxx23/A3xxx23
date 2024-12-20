@@ -83,10 +83,9 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 ---
 
-<div align="center">
-  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="picture">
+</p>
 
 <div align="center">
   <i>Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍</i>
