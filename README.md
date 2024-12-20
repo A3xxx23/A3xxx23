@@ -31,13 +31,12 @@
 <details>
 <summary>📁 Ver Proyectos</summary>
 
-[![Libreria](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Libreria&theme=react)](https://github.com/Jose-Familia/Libreria)
-[![Browsers-Search-automatizacion](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Browsers-Search-automatizacion&theme=react)](https://github.com/Jose-Familia/Browsers-Search-automatizacion)
+[![Sistema de inventario](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Sistema-de-inventario&theme=react)](https://github.com/A3xxx23/Sistema-de-inventario)
+[![LifeTrack](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=LifeTrack&theme=react)](https://github.com/A3xxx23/LifeTrack)
 [![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TI_Ecommerce&theme=react)](https://github.com/A3xxx23/Ecommerce)
 [![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TaskList&theme=react)](https://github.com/A3xxx23/TaskList)
 [![Angel-Aquino-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Angel-Aquino-Portfolio&theme=react)](https://github.com/A3xxx23/Angel-Aquino-Portfolio)
 [![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=BookStore&theme=react)](https://github.com/A3xxx23/BookStore)
-
 </details>
 
 ## 📚 Educación y Certificaciones
@@ -48,11 +47,6 @@
   - [Python Essential 2](https://www.credly.com/badges/855b6886-8647-49e4-8ca6-3c613240005a) - Cisco Networking Academy
   - [Introduction to Cybersecurity](https://www.credly.com/badges/f0eb7a0c-de97-4b81-b711-5629f7410b30) - Cisco Networking Academy
   - [Certificados Restantes](https://www.linkedin.com/in/angel-emilio-aquino/details/certifications/) - Linkedin
-
-## 🏆 Logros y Contribuciones
-
-- 🎉 [Hacktoberfest 2023](https://www.holopin.io/userbadge/cm15klvju35030cmmxfh301gc)
-- 🌟 [GitHub Universe 2023 Cloud Skills Challenge](https://learn.microsoft.com/api/achievements/share/es-es/JoseFamilia-0966/WA4YTS3N?sharingId=7C7093112995AB10)
 
 ## 📊 Estadísticas de GitHub
 
@@ -90,5 +84,10 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
+  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+</div>
+<div align="center">
   <i>Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍</i>
 </div>
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
