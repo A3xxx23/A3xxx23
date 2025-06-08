@@ -20,7 +20,7 @@ Hi! I'm <strong><a href="https://a3xxx23.github.io/Angel-Aquino-Portfolio/" targ
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,javascript,css,html,figma,mysql,jquery,php,bootstrap,java,django,github&perline=3" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=python,javascript,css,html,figma,mysql,jquery,react,supabase,typescript,php,bootstrap,java,django,github&perline=3" alt="My Skills">
 </a>
 </div>
 
@@ -29,10 +29,12 @@ Hi! I'm <strong><a href="https://a3xxx23.github.io/Angel-Aquino-Portfolio/" targ
 <details>
 <summary>📁 View Projects</summary>
 
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Ecommerce&theme=react)](aynecommerce.netlify.app)
+[![File Converter](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=FileConverter&theme=react)](a3fileconverter.netlify.app)
+[![A3Crypto Place](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=A3Crypto&theme=react)](a3cryptoplace.vercel.app)
+[![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TaskList&theme=react)](https://github.com/A3xxx23/TaskList)
 [![System of inventory](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Sistema-de-inventario&theme=react)](https://github.com/A3xxx23/Sistema-de-inventario)
 [![LifeTrack](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=LifeTrack&theme=react)](https://github.com/A3xxx23/LifeTrack)
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Ecommerce&theme=react)](https://github.com/A3xxx23/Ecommerce)
-[![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TaskList&theme=react)](https://github.com/A3xxx23/TaskList)
 [![Angel-Aquino-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Angel-Aquino-Portfolio&theme=react)](https://github.com/A3xxx23/Angel-Aquino-Portfolio)
 [![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=BookStore&theme=react)](https://github.com/A3xxx23/BookStore)
 </details>
