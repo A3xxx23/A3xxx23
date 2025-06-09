@@ -29,9 +29,9 @@ Hi! I'm <strong><a href="https://a3xxx23.github.io/Angel-Aquino-Portfolio/" targ
 <details>
 <summary>📁 View Projects</summary>
 
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Ecommerce&theme=react)](aynecommerce.netlify.app)
-[![File Converter](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=FileConverter&theme=react)](a3fileconverter.netlify.app)
-[![A3Crypto Place](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=A3Crypto&theme=react)](a3cryptoplace.vercel.app)
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Ecommerce&theme=react)](https://github.com/A3xxx23/Ecommerce)
+[![File Converter](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=FileConverter&theme=react)](https://github.com/A3xxx23/FileConverter)
+[![A3Crypto Place](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=A3Crypto&theme=react)](https://github.com/A3xxx23/A3Crypto)
 [![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TaskList&theme=react)](https://github.com/A3xxx23/TaskList)
 [![System of inventory](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Sistema-de-inventario&theme=react)](https://github.com/A3xxx23/Sistema-de-inventario)
 [![LifeTrack](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=LifeTrack&theme=react)](https://github.com/A3xxx23/LifeTrack)
