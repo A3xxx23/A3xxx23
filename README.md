@@ -20,7 +20,7 @@ Hi! I'm <strong><a href="https://a3xxx23.github.io/Angel-Aquino-Portfolio/" targ
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,supabase,typescript, tailwindcss,framer motion,python,javascript,css,html,figma,mysql,jquery,php,bootstrap,java,django,github&perline=3" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=react,supabase,typescript, tailwindcss,python,javascript,css,html,figma,mysql,jquery,php,bootstrap,java,django,github&perline=3" alt="My Skills">
 </a>
 </div>
 
