@@ -52,9 +52,9 @@ Hi! I'm <strong><a href="https://a3xxx23.github.io/Angel-Aquino-Portfolio/" targ
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=A3xxx23&theme=react&show_icons=true&hide_border=false&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AngelEmilioAquino&theme=react&show_icons=true&hide_border=false&count_private=true"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3xxx23&theme=react&show_icons=true&hide_border=false&layout=compact"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelEmilioAquino&theme=react&show_icons=true&hide_border=false&layout=compact"/>
 
 </div>
 
