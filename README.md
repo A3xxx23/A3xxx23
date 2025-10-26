@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm <strong><a href="https://a3xxx23.github.io/Angel-Aquino-Portfolio/" target="_blank" rel="noopener noreferrer">Angel E. Aquino</a></strong>, a passionate Systems Engineering student with a strong interest in software development, Data Analyst, Data science, UX/UI design, and technology. My goal is to become a versatile and highly competent developer.
+Hi! I'm <strong><a href="https://angelaquino.vercel.app/" target="_blank" rel="noopener noreferrer">Angel E. Aquino</a></strong>, a passionate Systems Engineering student with a strong interest in software development, Full Stack Development, 3D Web Design, UX/UI design, and technology. My goal is to become a versatile and highly competent developer.
 
 <details>
 <summary>🎯 My Professional Goals</summary>
