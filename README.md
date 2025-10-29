@@ -29,14 +29,14 @@ Hi! I'm <strong><a href="https://angelaquino.vercel.app/" target="_blank" rel="n
 <details>
 <summary>📁 View Projects</summary>
 
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Ecommerce&theme=react)](https://github.com/A3xxx23/Ecommerce)
-[![File Converter](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=FileConverter&theme=react)](https://github.com/A3xxx23/FileConverter)
-[![A3Crypto Place](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=A3Crypto&theme=react)](https://github.com/A3xxx23/A3Crypto)
-[![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=TaskList&theme=react)](https://github.com/A3xxx23/TaskList)
-[![System of inventory](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Sistema-de-inventario&theme=react)](https://github.com/A3xxx23/Sistema-de-inventario)
-[![LifeTrack](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=LifeTrack&theme=react)](https://github.com/A3xxx23/LifeTrack)
-[![Angel-Aquino-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=Angel-Aquino-Portfolio&theme=react)](https://github.com/A3xxx23/Angel-Aquino-Portfolio)
-[![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=A3xxx23&repo=BookStore&theme=react)](https://github.com/A3xxx23/BookStore)
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=Ecommerce&theme=react)](https://github.com/AngelEmilioAquino/Ecommerce)
+[![File Converter](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=FileConverter&theme=react)](https://github.com/AngelEmilioAquino/FileConverter)
+[![A3Crypto Place](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=A3Crypto&theme=react)](https://github.com/AngelEmilioAquino/A3Crypto)
+[![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=TaskList&theme=react)](https://github.com/AngelEmilioAquino/TaskList)
+[![System of inventory](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=Sistema-de-inventario&theme=react)](https://github.com/AngelEmilioAquino/Sistema-de-inventario)
+[![LifeTrack](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=LifeTrack&theme=react)](https://github.com/AngelEmilioAquino/LifeTrack)
+[![Angel-Aquino-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=Angel-Aquino-Portfolio&theme=react)](https://github.com/A3xxx23/Angel-Aquino-Portfolio)
+[![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=BookStore&theme=react)](https://github.com/AngelEmilioAquino/BookStore)
 </details>
 
 ## 📚 Education and Certifications
