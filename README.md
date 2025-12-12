@@ -1,4 +1,4 @@
-<h1 align="center">Angel E. Aquino <a href="https://angelaquino.vercel.app">Systems Engineering Student</a></h1>
+<h1 align="center">Angel E. Aquino <a href="https://angelaquino.vercel.app" target="_blank" rel="noopener noreferrer">Systems Engineering Student</a></h1>
 
 <img width="1080" height="350" src="https://github.com/user-attachments/assets/c670ad22-85db-4399-b183-3b11c8ea2174">
 
@@ -47,14 +47,6 @@ Hi! I'm <strong><a href="https://angelaquino.vercel.app/" target="_blank" rel="n
 - [Python Essential 2](https://www.credly.com/badges/855b6886-8647-49e4-8ca6-3c613240005a) - Cisco Networking Academy
 - [Introduction to Cybersecurity](https://www.credly.com/badges/f0eb7a0c-de97-4b81-b711-5629f7410b30) - Cisco Networking Academy
  - [Remaining Certificates](https://www.linkedin.com/in/angel-emilio-aquino/details/certifications/) - Linkedin
-
-## 💼 Portfolio
-
-<div align="center">
-  <a href="https://tuportafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
 
 ### music to program 🎧
 
