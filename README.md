@@ -48,14 +48,12 @@ Hi! I'm <strong><a href="https://angelaquino.vercel.app/" target="_blank" rel="n
 - [Introduction to Cybersecurity](https://www.credly.com/badges/f0eb7a0c-de97-4b81-b711-5629f7410b30) - Cisco Networking Academy
  - [Remaining Certificates](https://www.linkedin.com/in/angel-emilio-aquino/details/certifications/) - Linkedin
 
-## 📊 GitHub Statistics
+## 💼 Portfolio
 
 <div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AngelEmilioAquino&theme=react&show_icons=true&hide_border=false&count_private=true"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelEmilioAquino&theme=react&show_icons=true&hide_border=false&layout=compact"/>
-
+  <a href="https://tuportafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 ### music to program 🎧
