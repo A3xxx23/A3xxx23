@@ -19,7 +19,7 @@ Hi! I'm <strong><a href="https://angelaquino.vercel.app/" target="_blank" rel="n
 ## 🛠 Technical Skills
 
 <div align="center">
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=python,javascript,css,html,react,supabase,typescript,figma,mysql,jquery,php,bootstrap,java,django,github,git,matlab,tailwind,nodejs,flask,fastapi&perline=3" alt="My Skills">
 </a>
 </div>
@@ -35,7 +35,7 @@ Hi! I'm <strong><a href="https://angelaquino.vercel.app/" target="_blank" rel="n
 [![TaskList](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=TaskList&theme=react)](https://github.com/AngelEmilioAquino/TaskList)
 [![System of inventory](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=Sistema-de-inventario&theme=react)](https://github.com/AngelEmilioAquino/Sistema-de-inventario)
 [![LifeTrack](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=LifeTrack&theme=react)](https://github.com/AngelEmilioAquino/LifeTrack)
-[![Angel-Aquino-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=Angel-Aquino-Portfolio&theme=react)](https://github.com/A3xxx23/Angel-Aquino-Portfolio)
+[![RoboTap](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=RoboTap&theme=react)](https://github.com/AngelEmilioAquino/RoboTap)
 [![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=AngelEmilioAquino&repo=BookStore&theme=react)](https://github.com/AngelEmilioAquino/BookStore)
 </details>
 
@@ -71,5 +71,6 @@ Hi! I'm <strong><a href="https://angelaquino.vercel.app/" target="_blank" rel="n
 <div align="center">
 <h2><i>Thanks for visiting my profile. I hope we can collaborate soon! 👋🤍</i></h2>
 </div>
+
 
 
